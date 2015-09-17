@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Buttons</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_click_1">Button Click Type1</string>
+    <string name="btn_click_2">Button Click Type2</string>
+    <string name="btn_click_3">Button Click Type3</string>
+    <string name="title_activity_check_boxes">CheckBoxes</string>
+    <string name="title_activity_radio_groups">RadioGroups</string>
+    <string name="ChoiceText">Choose one of the radio buttons below</string>
+    <string name="Android">Android</string>
+    <string name="iOS">iOS</string>
+    <string name="BlackBerry">BlackBerry</string>
+    <string name="Choose">Choose</string>
+
+</resources>
